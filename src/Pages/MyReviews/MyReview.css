@@ -1,0 +1,10 @@
+.text-nothing {
+    display: flex;
+    width: 50%;
+    height: 400px;
+    margin: auto;
+    border-radius: 10px;
+
+    align-items: center;
+    justify-content: center;
+}
